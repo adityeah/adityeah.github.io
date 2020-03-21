@@ -1,0 +1,20 @@
+---
+id: 509
+title: Chinese buses and tough questions
+date: 2010-10-08T11:07:33+00:00
+author: aditya kumar
+layout: post
+guid: http://www.adityeah.com/?p=509
+permalink: /2010/10/08/chinese-buses-and-tough-questions/
+categories:
+  - Personal
+---
+Sneha&#8217;s spirited travel blog ([tra-well.blogspot.com](http://tra-well.blogspot.com)), carries a writeup I wrote specifically for the blog, [here](http://tra-well.blogspot.com/2010/09/feeling-potpourri-of-cultures.html). I am crossposting it here, below. I call it, &#8220;Chinese Buses and tough questions&#8221;.
+
+**Chinese buses and tough questions**
+
+I do not know, how much is the Chinese presence in the transport services sector in this country but the two long distance bus journeys I have done, were all operated by the Chinese (and mostly used by Indians, but that&#8217;s another story). I went to Baltimore and it was a 3.5 hours ride, one way. The plan was impromptu so I had to run around between the various avenues of 34th street, in Manhattan. I had lost almost all hopes of getting a bus until the man at Starbucks told me to go to 34th Street, between 7th avenue and Broadway, for the buses to Baltimore. Turned out, even the locals call it the &#8220;Chinese buses&#8221;. Why did I go to Starbucks when I was short on time? Free wi-fi. Caf, Decaf, tall or grande, latte or black, flavored or not&#8211; tough questions to answer at the Starbucks counter when all you need is to know the bus stop you should be on, in the next 5 minutes.
+
+For whats it worth, Baltimore was a coming of sorts. I used to work for a Baltimore based company, my first American clients at work. We worked for more than 2 years, nurturing a product that was very dear to us only to be told, one fine morning in India, that the company had gone bankrupt. Before that, our folks from India (not me) had been there, worked from that location and sent pictures and videos of the place. The office overlooked the harbor and it was a beautiful sight. Today, with the same colleagues, I went there and had coffee (Starbucks, again) and stared at the magnificent World Trade Center Building that once had our office (the one I had never been to). Its funny, how life comes a full circle. Here I am, I thought, 5 years after a debacle that almost derailed my career, staring at a building and trying to locate the 17th floor, where I got instructions from, for such a long and important part of my career as a software fresher. Who would have thought I&#8217;d do this one day? Not me.
+
+Coming back from the same Chinese bus, a middle aged man (possibly Indian, I thought), chose to sit next to me. Turned out, he was from Pakistan. For the most part of the journey, he chatted about how the politicians have rotted his country (and mine), his hatred for Mountbatten and Bhutto and teachings of Mao Zedong. Apart from a brief while when he gave me a mini lecture suggesting me to embrace Islam, talking with him was very insightful and even interesting. For the very little while that it was not, I have learnt to politely nod my head to talks about religion and the propaganda. This is not the first time and this won&#8217;t be the last, but I can only hope that I am not subjected to talks of these kind on a bus journey. I have heard the Church&#8217;s propaganda at Madison Square when Korean teenage kids came to me and explained how Christ is the answer to all my problems and I have this man, on the left now, who is telling me, point blank, what I should be doing to avoid getting my handsome face burnt in Hell. I find it strange that people think it is okay to propagate on something as sensitive as religion despite being aware (?) that at least for the past few centuries religion, as we know it, has poised more difficult questions than given explanatory answers. Questions at Starbucks, ah, they were easy.
