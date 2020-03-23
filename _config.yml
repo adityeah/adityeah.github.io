@@ -1,3 +1,5 @@
 url: http://adityeah.com/wp
 name: 'aditya kumar&#039;s weblog'
 description: ""
+
+theme: jekyll-theme-minimal
