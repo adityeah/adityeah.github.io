@@ -2,6 +2,19 @@ url: "https://adityeah.github.io"
 name: "aditya kumar's weblog"
 description: ""
 
+# Build settings
 remote_theme: huangyz0918/moving
 
-theme: jekyll-theme-slate
+plugins:
+  - jekyll-feed
+
+moving:
+  about_you: Hard work always pays off
+  avatar_url: https://i.loli.net/2019/09/07/wiBh3uMWRUaLX5K.png 
+  date_format: "%b %d"
+  back_to: "Index"
+  social_links:
+    rss: RSS
+    github:  huangyz0918
+    facebook: huangyz0918
+    linkedin: yizheng-huang
