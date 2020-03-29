@@ -1,12 +1,11 @@
-title: Letter's from the wasteland
-author: Aditya Kumar
-email: aditya2507@gmail.com
-description: (living under the pandemic).
-url: "http://adityeah.github.io" 
+title: Yizheng's Blog
+author: Yizheng Huang
+email: huangyz0918@gmail.com
+description: Hard work always pays off.
+url: "http://blog.huangyz.name/" 
 
 # Build settings
 remote_theme: huangyz0918/moving
-
 plugins:
   - jekyll-feed
 
@@ -20,3 +19,4 @@ moving:
     github:  huangyz0918
     facebook: huangyz0918
     linkedin: yizheng-huang
+
