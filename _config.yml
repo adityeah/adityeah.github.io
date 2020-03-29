@@ -1,6 +1,8 @@
-url: "https://adityeah.github.io"
-name: "aditya kumar's weblog"
-description: ""
+title: Letter's from the wasteland
+author: Aditya Kumar
+email: aditya2507@gmail.com
+description: (living under the pandemic).
+url: "http://adityeah.github.io" 
 
 # Build settings
 remote_theme: huangyz0918/moving
