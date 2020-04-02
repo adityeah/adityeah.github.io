@@ -1,6 +1,6 @@
 ---  
 layout:  post
-title:  "a-pandemic-that'll-makes-us-reflect"
+title:  "A Pandemic that'll make us Reflect"
 ---
 
 **IN** a way it's ironic - it took a pandemic to make me blog again.
