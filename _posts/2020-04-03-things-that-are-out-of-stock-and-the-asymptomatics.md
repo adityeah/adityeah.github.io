@@ -1,4 +1,3 @@
-
 ---  
 layout:  post
 title:  "Things that are out of stock and The Asymptomatics"
