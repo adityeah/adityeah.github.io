@@ -6,7 +6,6 @@ layout: page
 
 ## About me
 
-38 year old programmer based in Sydney.
+38 year old programmer from India, living in Sydney and blogging through this pandemic.
 
-But seriously, Bulleh, I know not, who I am.
 
