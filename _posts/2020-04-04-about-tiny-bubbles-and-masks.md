@@ -3,7 +3,7 @@ layout:  post
 title:  "About Tiny Bubbles and Masks"
 ---
 
-**BEFORE** anything, I want to understand the meaning of an "airborne" disease: Any diseases that are caused via transmission through the air, with the pathogens (or less specifically, any disease causing agents, present in aerosols < 5 micrometre in diameter. That size matters because, I think any larger droplets would be driven to the ground because of gravity. 
+**BEFORE** anything, I want to understand the meaning of an "airborne" disease: Any diseases that are caused via transmission through the air, with the pathogens (or less specifically, any disease causing agents), present in aerosols < 5 micrometre in diameter. That size matters because, I think any larger droplets would be driven to the ground because of gravity. 
 
 Is COVID-19 airborne? The jury is still out on that. Here's [something](https://www.nature.com/articles/d41586-020-00974-w) something to read on that. But most of whatever I read mentioned a specific study [specific study ](https://www.medrxiv.org/content/10.1101/2020.03.23.20039446v2) in The University of Nebraska where they found virus RNA scattered at hard to reach places of rooms that were treating COVID-19 patients. The RNA lingered in the air, six feet away from the patients, and even in the hallway.
 
