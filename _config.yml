@@ -27,8 +27,8 @@ navigation:
   - {file: "README2.md", icon: bookmark}
 
 external:                    # see http://fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:adityeah@users.noreply.github.com"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/adityeah"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
