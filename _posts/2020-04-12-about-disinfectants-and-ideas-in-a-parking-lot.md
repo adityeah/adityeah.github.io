@@ -1,4 +1,3 @@
-
 ---  
 layout:  post
 title:  "About disinfectants and ideas in a parking lot"
